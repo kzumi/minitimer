@@ -41,7 +41,7 @@ func SetTimer(timing int) {
 				min = min - 1
 			}
 			if ho > 0 {
-				swapmin := 59
+				swapmin := 60
 				min = swapmin
 				swapmin--
 				ho--
